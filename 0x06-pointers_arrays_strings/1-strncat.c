@@ -1,4 +1,3 @@
-(26 sloc)  539 Bytes
 /**
  * _strncat - a function that concatenates two strings.
  *
