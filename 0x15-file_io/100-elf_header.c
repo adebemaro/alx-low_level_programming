@@ -1,20 +1,3 @@
-
-lexiscode
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x15-file_io/100-elf_header.c
-@lexiscode
-lexiscode Added tasks
- 1 contributor
-302 lines (263 sloc)  5.74 KB
 #include <elf.h>
 #include <fcntl.h>
 #include <stdio.h>
